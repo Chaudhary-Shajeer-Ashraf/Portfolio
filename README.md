@@ -24,7 +24,7 @@ I'm pursuing my Bachelor's in Computer Science and taking courses in data scienc
 a strong foundation in statistics, machine learning, and programming.
 
 
-### Skills & Abilities
+## Skills & Abilities
 Proficient in utilizing Pandas and NumPy for robust data analysis and numerical computing. Demonstrated expertise in leveraging Pandas for data manipulation, 
 cleansing, and preprocessing,ensuring data integrity throughout the analysis pipeline. With a strong command of NumPy, adept at performing advanced numerical 
 computations, array manipulations, and statistical analyses. Capable of efficiently handling large datasets, extracting meaningful insights, and contributing 
@@ -41,25 +41,25 @@ developments in Pandas and NumPy to continually enhance data analysis capabiliti
 
 
 ## Major Projets:
-Fake_News_Detector
+### Fake_News_Detector
 
-Parkinson_Disease
+### Parkinson_Disease
 
-Sentment_Analysis
+### Sentment_Analysis
 
-Email_Spam
+### Email_Spam
 
-EDA on Terroirism Data
+### EDA on Terroirism Data
 
-Credit Card Fraud Detection
+### Credit Card Fraud Detection
 
-Iris Flower Classification
+### Iris Flower Classification
 
-Titanic Survival Prediction using Machine (Logistic Regression)
+### Titanic Survival Prediction using Machine (Logistic Regression)
 
-Employee Turnover
+### Employee Turnover
 
-House Price Prediction
+### House Price Prediction
 
 
 
