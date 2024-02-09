@@ -1,4 +1,4 @@
-## Education:
+# Education:
 
 
 ### 2020 – 2024 Bachelors in Computer Science. 
@@ -18,13 +18,13 @@ Model School.
 
 
 
-## About
+# About
 Hey there! I'm a computer science student with a deep passion for data science. Currently, 
 I'm pursuing my Bachelor's in Computer Science and taking courses in data science to gain 
 a strong foundation in statistics, machine learning, and programming.
 
 
-## Skills & Abilities
+# Skills & Abilities
 Proficient in utilizing Pandas and NumPy for robust data analysis and numerical computing. Demonstrated expertise in leveraging Pandas for data manipulation, 
 cleansing, and preprocessing,ensuring data integrity throughout the analysis pipeline. With a strong command of NumPy, adept at performing advanced numerical 
 computations, array manipulations, and statistical analyses. Capable of efficiently handling large datasets, extracting meaningful insights, and contributing 
@@ -33,7 +33,7 @@ developments in Pandas and NumPy to continually enhance data analysis capabiliti
 
 
 
-## Internships:
+# Internships:
  At Code Clause
 
  At Coders Cave
@@ -44,7 +44,7 @@ developments in Pandas and NumPy to continually enhance data analysis capabiliti
 
 
 
-## Major Projets:
+# Major Projets:
  Fake_News_Detector
 
  Parkinson_Disease
@@ -67,7 +67,7 @@ developments in Pandas and NumPy to continually enhance data analysis capabiliti
 
 
 
-## Certifications from Courser's IBM Data Science Professional Course
+# Certifications from Courser's IBM Data Science Professional Course
 [Introduction to Data Science](https://www.coursera.org/account/accomplishments/verify/A4L4ZWKUUGC5)
 
 [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/N6JAU79KJXRN)
