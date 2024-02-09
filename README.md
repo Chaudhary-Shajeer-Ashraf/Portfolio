@@ -1,6 +1,7 @@
 # Education:
 
 
+
 ### 2020 – 2024 Bachelors in Computer Science. 
 From IST Islamabad.
 ### 2017 – 2019 Inter in Computer Science. 
