@@ -34,10 +34,10 @@ developments in Pandas and NumPy to continually enhance data analysis capabiliti
 
 
 ### Internships:
-At Code Clause
-At Coders Cave
-At CodSoft
-At Technohack
+## At Code Clause
+## At Coders Cave
+## At CodSoft
+## At Technohack
 
 
 ### Major Projets:
