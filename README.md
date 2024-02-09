@@ -45,23 +45,23 @@ developments in Pandas and NumPy to continually enhance data analysis capabiliti
 
 
 ## Major Projets:
-### Fake_News_Detector
+# Fake_News_Detector
 
-### Parkinson_Disease
+# Parkinson_Disease
 
-### Sentment_Analysis
+# Sentment_Analysis
 
-### Email_Spam
+# Email_Spam
 
-### EDA on Terroirism Data
+# EDA on Terroirism Data
 
-### Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
-### Iris Flower Classification
+# Iris Flower Classification
 
-### Titanic Survival Prediction using Machine (Logistic Regression)
+# Titanic Survival Prediction using Machine (Logistic Regression)
 
-### Employee Turnover
+# Employee Turnover
 
 ### House Price Prediction  
 ## Certifications from Courser's IBM Data Science Professional Course
