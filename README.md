@@ -1,4 +1,4 @@
-### Education:
+## Education:
 
 
 ### 2020 – 2024 Bachelors in Computer Science IST Islamabad
@@ -18,7 +18,7 @@ Model School
 
 
 
-### About
+## About
 Hey there! I'm a computer science student with a deep passion for data science. Currently, 
 I'm pursuing my Bachelor's in Computer Science and taking courses in data science to gain 
 a strong foundation in statistics, machine learning, and programming.
@@ -33,14 +33,14 @@ developments in Pandas and NumPy to continually enhance data analysis capabiliti
 
 
 
-### Internships:
-## At Code Clause
-## At Coders Cave
-## At CodSoft
-## At Technohack
+## Internships:
+ At Code Clause
+ At Coders Cave
+ At CodSoft
+ At Technohack
 
 
-### Major Projets:
+## Major Projets:
 Fake_News_Detector
 
 Parkinson_Disease
@@ -64,7 +64,7 @@ House Price Prediction
 
 
 
-### Certifications from Courser's IBM Data Science Professional Course
+## Certifications from Courser's IBM Data Science Professional Course
 [Introduction to Data Science](https://www.coursera.org/account/accomplishments/verify/A4L4ZWKUUGC5)
 
 [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/N6JAU79KJXRN)
