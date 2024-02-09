@@ -33,14 +33,23 @@ At Technohack
 
 ### Major Projets:
 Fake_News_Detector
+
 Parkinson_Disease
+
 Sentment_Analysis
+
 Email_Spam
+
 EDA on Terroirism Data
+
 Credit Card Fraud Detection
+
 Iris Flower Classification
+
 Titanic Survival Prediction using Machine (Logistic Regression)
+
 Employee Turnover
+
 House Price Prediction
 
 
