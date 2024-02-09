@@ -1,15 +1,21 @@
 ### Education:
+
+
 ### 2020 – 2024 Bachelors in Computer Science IST Islamabad
 
 ### 2017 – 2019 Inter in Computer Science 
+
 
 From F.G Liaqat Ali
 Degree College
 
 ### 2015 – 2017 Matriculation in Science 
 
+
 From F.G Sir Syed Public
 Model School
+
+
 
 
 ### About
